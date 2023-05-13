@@ -1,0 +1,150 @@
+h3{
+    text-align: center;
+    color: #6c757d;
+}
+.img{
+    width: 250px;
+}
+.yar{
+    background-color: #c0e2ea;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th{
+    text-align: left;
+    color: #6c757d;
+  }
+  td{
+    color: #6c757d;
+  }
+  .table{
+    text-align: center;
+  }
+  .table1{
+    text-align: center;
+    border: 1px solid ;
+    border-top: 1px ;
+    border-bottom: 1px;
+  }
+  .table2{
+    text-align: center;
+    border: 1px solid ;
+    border-top: 1px ;
+    border-bottom: 1px;
+  }
+  .table3{
+    text-align: center;
+    border: 1px solid ;
+    border-top: 1px ;
+    border-bottom: 1px;
+  }
+  .table4{
+    text-align: center;
+    border: 1px solid ;
+    border-top: 1px ;
+    border-bottom: 1px;
+  }
+  .border{
+    text-align: left;
+    border: 1px solid ;
+    border-right: 1px;
+    width: 10%;
+  }
+  .border2{
+    border: 1px solid ;
+    border-left: 1px;
+    text-align: left;
+    border-right: 1px;
+    width: 10%;
+  }
+  .border3{
+    border: 1px solid ;
+    text-align: left;
+    border-left: 1px;
+    width: 10%;
+  }
+  .border4{
+    border: 1px solid ;
+    width: 5%;
+  }
+  .limit{
+    text-align: center;
+  }
+  .border5{
+    border: 1px solid;
+    width: 5%;
+  }
+  .border7{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border8{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border9{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border11{
+    border: 1px solid;
+    background-color: #ff0100;
+  }
+  .border12{
+    border: 1px solid;
+    background-color: #ff0100;
+  }
+  .border13{
+    border: 1px solid;
+    background-color: #ff0100;
+  }
+  .border14{
+    border: 1px solid;
+    background-color: #ff0100;
+  }
+  .border15{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border16{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border17{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border18{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .border19{
+    border: 1px solid;
+    background-color: #ff0100;
+  }
+  .border20{
+    border: 1px solid;
+    background-color: #fea500;
+  }
+  .linear{
+    background:linear-gradient(to right, green,orange,red);
+    width: 50%;
+    height: 200px;
+  }
+  .lagrand{
+    display: flex;
+    margin-top: 10px;
+  }
+  .xarre{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6c757d;
+    text-align: end;
+    margin-top: 8%;
+  }
+  .text{
+    color: #6c757d;
+    margin-left: 10px;
+  }
